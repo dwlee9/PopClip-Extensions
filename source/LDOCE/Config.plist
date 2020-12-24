@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extension Name</key>
+	<string>LDOCE</string>
+	<key>Extension Identifier</key>
+	<string>com.dwlee.popclip.extension.LDOCE</string>
+	<key>Extension Description</key>
+	<string>Open LDOCE in a web browser with the selected text.</string>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>URL</key>
+			<string>https://www.ldoceonline.com/dictionary/{popclip text}</string>
+			<key>Image File</key>
+			<string>longman.png</string>
+			<key>Title</key>
+			<string>LDOCE</string>
+		</dict>
+	</array>
+</dict>
+</plist>
